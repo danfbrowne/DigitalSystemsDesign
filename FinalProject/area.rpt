@@ -1,0 +1,103 @@
+# Daniel Browne EECE 573
+# File created on Tue Dec 14 01:10:26 -0500 2021
+# Showing Area Report For off
+8. Primitives
+-------------
+
++----------+------+---------------------+
+| Ref Name | Used | Functional Category |
++----------+------+---------------------+
+| IBUF     |    4 |                  IO |
+| FDRE     |    3 |        Flop & Latch |
+| OBUF     |    2 |                  IO |
+| LUT6     |    2 |                 LUT |
+| LUT2     |    2 |                 LUT |
+| LUT3     |    1 |                 LUT |
+| BUFG     |    1 |               Clock |
++----------+------+---------------------+
+
+
+# Showing Area Report For one_hot
+8. Primitives
+-------------
+
++----------+------+---------------------+
+| Ref Name | Used | Functional Category |
++----------+------+---------------------+
+| LUT5     |    6 |                 LUT |
+| FDRE     |    5 |        Flop & Latch |
+| IBUF     |    4 |                  IO |
+| OBUF     |    2 |                  IO |
+| LUT4     |    2 |                 LUT |
+| FDSE     |    1 |        Flop & Latch |
+| BUFG     |    1 |               Clock |
++----------+------+---------------------+
+
+
+# Showing Area Report For sequential
+8. Primitives
+-------------
+
++----------+------+---------------------+
+| Ref Name | Used | Functional Category |
++----------+------+---------------------+
+| IBUF     |    4 |                  IO |
+| LUT6     |    3 |                 LUT |
+| FDRE     |    3 |        Flop & Latch |
+| OBUF     |    2 |                  IO |
+| LUT3     |    1 |                 LUT |
+| LUT2     |    1 |                 LUT |
+| BUFG     |    1 |               Clock |
++----------+------+---------------------+
+
+
+# Showing Area Report For johnson
+8. Primitives
+-------------
+
++----------+------+---------------------+
+| Ref Name | Used | Functional Category |
++----------+------+---------------------+
+| IBUF     |    4 |                  IO |
+| LUT6     |    3 |                 LUT |
+| FDRE     |    3 |        Flop & Latch |
+| OBUF     |    2 |                  IO |
+| LUT3     |    2 |                 LUT |
+| BUFG     |    1 |               Clock |
++----------+------+---------------------+
+
+
+# Showing Area Report For gray
+8. Primitives
+-------------
+
++----------+------+---------------------+
+| Ref Name | Used | Functional Category |
++----------+------+---------------------+
+| IBUF     |    4 |                  IO |
+| LUT6     |    3 |                 LUT |
+| FDRE     |    3 |        Flop & Latch |
+| OBUF     |    2 |                  IO |
+| LUT3     |    1 |                 LUT |
+| LUT2     |    1 |                 LUT |
+| BUFG     |    1 |               Clock |
++----------+------+---------------------+
+
+
+# Showing Area Report For auto
+8. Primitives
+-------------
+
++----------+------+---------------------+
+| Ref Name | Used | Functional Category |
++----------+------+---------------------+
+| IBUF     |    4 |                  IO |
+| LUT6     |    3 |                 LUT |
+| FDRE     |    3 |        Flop & Latch |
+| OBUF     |    2 |                  IO |
+| LUT3     |    1 |                 LUT |
+| LUT2     |    1 |                 LUT |
+| BUFG     |    1 |               Clock |
++----------+------+---------------------+
+
+
